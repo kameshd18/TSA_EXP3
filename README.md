@@ -15,7 +15,7 @@ type to fit the data.
 ### PROGRAM:
 
 ```
-python
+
 NAME : Kamesh D
 REGISTER NO : 212222240043
 
