@@ -11,13 +11,14 @@ type to fit the data.
 3. Implement the correlation using necessary logic and obtain the results
 4. Store the results in an array
 5. Represent the result in graphical representation as given below.
-6. 
+
 ### PROGRAM:
-
 ```
-
 NAME : Kamesh D
 REGISTER NO : 212222240043
+```
+
+```python
 
 import matplotlib.pyplot as plt
 import numpy as np
